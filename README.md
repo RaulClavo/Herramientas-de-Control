@@ -14,6 +14,7 @@
   - Multiplicaciones en caso de conexión en serie.
   - Sumas o restas en caso de punto de suma/resta.
   - Operador rp(x,y) o rn(x,y) para las retroalimentaciones.
+    - rp = retroalimentación positiva, rn = retroalimentación negativa.
 - Ejemplo
     - ![image](https://github.com/user-attachments/assets/275ffe4b-5779-44b3-b9e4-8ad9741b29a8)
     - ![image](https://github.com/user-attachments/assets/21d47658-fca0-44d2-b5ba-7935001be932)
