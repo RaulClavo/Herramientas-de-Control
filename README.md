@@ -1,2 +1,4 @@
-# Herramientas-de-Control
-Una lista de scripts usados durante mi segundo año de carrera.
+## Contenido
+- Poles, Zeros and Estability Verdict
+- Routh Table 
+- Diagram Block Simplifier
